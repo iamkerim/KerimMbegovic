@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kerim Muharembegović
-- 👀 I’m interested in software engineering
+- 👀 Student of Software engineering
 - 🌱 I’m currently learning HTML, CSS, JS
 - 📫 You can reach me here ↓ <br>
 ✉ muharembegovic.kerim@gmail.com<br>
