@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kerim Muharembegović
 - 👀 Student of Software engineering
-- 🌱 I’m currently learning HTML, CSS, JS
+- 🌱 I’m currently learning Angular, Node and Java
 - 📫 You can reach me here ↓ <br>
 ✉ muharembegovic.kerim@gmail.com<br>
 IG - @iam_kerim<br>
