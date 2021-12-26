@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Angular, Node.js, React and Java
 - 📫 You can reach me here ↓ <br>
 ✉ muharembegovic.kerim@gmail.com<br>
-IG - @iam_kerim<br>
 Connect with me on [LinkedIn](https://www.linkedin.com/in/kerimmbegovic/)
 
 <!---
