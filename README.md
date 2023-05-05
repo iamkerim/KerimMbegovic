@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kerim Muharembegović
-- 👀 Student of Software engineering
-- 🌱 I’m currently learning Angular, Node.js and Spring Boot
+- 👀 Software developer at Cape Ann Enterprises
+- 🌱 Currently working with Angular and Drupal
 - 📫 You can reach me here ➔ 
 ✉ muharembegovic.kerim@gmail.com<br><br>
 Connect with me on [LinkedIn](https://www.linkedin.com/in/kerimmbegovic/)
